@@ -1,0 +1,22 @@
+{
+  "name": "rango_store",
+  "version": "1.0.0",
+  "description": "rango_store code testing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebenjohnson/rango_store.git"
+  },
+  "author": "Ebenezer Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ebenjohnson/rango_store/issues"
+  },
+  "homepage": "https://github.com/Ebenjohnson/rango_store#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
